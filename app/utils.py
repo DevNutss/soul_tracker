@@ -1,0 +1,1 @@
+# Helper function (e.g., hashing)
